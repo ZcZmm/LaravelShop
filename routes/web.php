@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// 首先设置路由Route::传递类型(‘访问的url’，‘控制器@方法’);
+
+Route::get('/','AdminUsersController@login')->name('login');
