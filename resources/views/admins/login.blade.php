@@ -246,7 +246,7 @@
                 <img src="{{asset('denglu/img/login_screen1_bg.jpg')}}" style="width: 1910px; height: 1074.38px; margin-left: 0px; top: -420.375px; left: 0px; position: inherit;">
             </div>
             <div class="mask-full" style="opacity: 0;"></div>
-            <h1 class="logo">企鹅号</h1>
+            <h1 class="logo">昊汉号</h1>
             <div class="show-list">
                 <div class="show-item">
                     <span class="show-box">
@@ -254,7 +254,7 @@
                     </span>
                     <div class="tooltip">
                         <div class="tooltip-inner">
-                            <h4>腾讯内容开放平台</h4>
+                            <h4>昊汉软件服务平台</h4>
                             <div class="qrcode">
                                 <img src="http://mat1.gtimg.com/om/om_2.0/images/login/code_login.png" alt="" class="">
                             </div>
